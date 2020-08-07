@@ -4,8 +4,7 @@ The NIST Cybersecurity Framework (CSF) and Security and Privacy Controls (SP 800
 So, to have more flexibility than the xlsx NIST puts out, I laid them out *(with some interpretation, mind you)* and imported them.
 
 
-## Cybersecurity Framework Core (CSF) to 
-## Security and Privacy Controls (SP 800-53 Rev. 4) Crosswalk
+## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) Crosswalk
 
 The CSF-SP800-53 folder contains the DB for the crosswalk.  Included are the SQL queries to create the tables and view,
 as well as the data used for mapping.  The source data for each of the documents is in the repsective folders.  (See below.)
