@@ -1,0 +1,49 @@
+﻿RMFTaskIndex,RMFID,RMFTaskID,RMFTask,RMFTaskDescription,RMFTaskTier,RMFStepIndex
+1,RMF 0.P-1,P-1,RISK MANAGEMENT ROLES,Identify and assign individuals to specific roles associated with security and privacy risk management.,Organization,1
+7,RMF 0.P-14 ,P-14 ,RISK ASSESSMENT,Conduct a system-level risk assessment and update the risk assessment results on an ongoing basis.,Organization,1
+12,RMF 0.P-2 ,P-2 ,RISK MANAGEMENT STRATEGY,Establish a risk management strategy for the organization that includes a determination of risk tolerance.,Organization,1
+13,RMF 0.P-3 ,P-3 ,RISK ASSESSMENT,Assess organization-wide security and privacy risk and update the risk assessment results on an ongoing basis.,Organization,1
+14,RMF 0.P-4 ,P-4 ,ORGANIZATIONALLY-TAILORED CONTROL BASELINES AND CYBERSECURITY FRAMEWORK PROFILES,"Establish, document, and publish org",Organization,1
+15,RMF 0.P-5 ,P-5 ,COMMON CONTROL IDENTIFICATION,"Identify, document, and publish organization-wide common controls that are available for inheritance by organizational systems.",Organization,1
+16,RMF 0.P-6 ,P-6 ,IMPACT-LEVEL PRIORITIZATION,Prioritize organizational systems with the same impact level.,Organization,1
+17,RMF 0.P-7 ,P-7 ,CONTINUOUS MONITORING STRATEGY,Develop and implement an organization-wide strategy for continuously monitoring control effectiveness,Organization,1
+2,RMF 0.P-10 ,P-10 ,ASSET IDENTIFICATION,Identify assets that require protection.,Information System,1
+3,RMF 0.P-11 ,P-11 ,AUTHORIZATION BOUNDARY ,Determine the authorization boundary of the system.,Information System,1
+4,RMF 0.P-12 ,P-12 ,INFORMATION TYPES,"Identify the types of information to be processed, stored, and transmitted by the system",Information System,1
+5,RMF 0.P-13 ,P-13 ,INFORMATION LIFE CYCLE,"Identify and understand all stages of the information life cycle for each information type processed, stored, or transmitted by the system.",Information System,1
+6,RMF 0.P-14 ,P-14 ,RISK ASSESSMENT,Conduct a system-level risk assessment and update the risk assessment results on an ongoing basis.,Information System,1
+8,RMF 0.P-15 ,P-15 ,REQUIREMENTS DEFINITION,Define the security and privacy requirements for the system and the environment of operation.,Information System,1
+9,RMF 0.P-16 ,P-16 ,ENTERPRISE ARCHITECTURE,Determine the placement of the system within the enterprise architecture.,Information System,1
+10,RMF 0.P-17 ,P-17 ,REQUIREMENTS ALLOCATION,Allocate security and privacy requirements to the system and to the environment of operation.,Information System,1
+11,RMF 0.P-18,P-18,SYSTEM REGISTRATION,Register the system with organizational program or management offices.,Information System,1
+18,RMF 0.P-8,P-8,MISSION OR BUSINESS FOCUS,"Identify the missions, business functions, and mission/business processes that the system is intended to support.",Information System,1
+19,RMF 0.P-9,P-9,SYSTEM STAKEHOLDERS,"Identify stakeholders who have an interest in the design, development, implementation, assessment, operation, maintenance, or disposal of the system.",Information System,1
+20,RMF 1.C-1 ,C-1 ,SYSTEM DESCRIPTION ,Document the characteristics of the system.,,2
+21,RMF 1.C-2 ,C-2 ,SECURITY CATEGORIZATION ,Categorize the system and document the security categorization results.,,2
+22,RMF 1.C-3 ,C-3 ,SECURITY CATEGORIZATION REVIEW AND APPROVAL,Review and approve the security categorization results and decision.,,2
+23,RMF 2.S-1,S-1,CONTROL SELECTION,Select the controls for the system and the environment of operation,,3
+24,RMF 2.S-2,S-2,CONTROL TAILORING,Tailor the controls selected for the system and the environment of operation,,3
+25,RMF 2.S-3 ,S-3 ,CONTROL ALLOCATION,Allocate security and privacy controls to the system and to the environment of operation,,3
+26,RMF 2.S-4 ,S-4 ,DOCUMENTATION OF PLANNED CONTROL IMPLEMENTATIONS,Document the controls for the system and environment of operation in security and privacy plans.,,3
+27,RMF 2.S-5 ,S-5 ,CONTINUOUS MONITORING STRATEGY,Develop and implement a system-level strategy for monitoring control effectiveness that is consistent with and supplements the organizational continuous monitoring strategy.,,3
+28,RMF 2.S-6 ,S-6 ,PLAN REVIEW AND APPROVAL,Review and approve the security and privacy plans for the system and the environment of operation.,,3
+29,RMF 3.I-1 ,I-1 ,CONTROL IMPLEMENTATION,Implement the controls in the security and privacy plans.,,4
+30,RMF 3.I-2 ,I-2 ,UPDATE CONTROL IMPLEMENTATION INFORMATION,Document changes to planned control implementations based on the “as-implemented” state of controls,,4
+31,RMF 4.A-1 ,A-1 ,ASSESSOR SELECTION,Select the appropriate assessor or assessment team for the type of control assessment to be conducted.,,5
+32,RMF 4.A-2 ,A-2 ,ASSESSMENT PLAN,"Develop, review, and approve plans to assess implemented controls",,5
+33,RMF 4.A-3 ,A-3 ,CONTROL ASSESSMENTS ,Assess the controls in accordance with the assessment procedures described in assessment plans.,,5
+34,RMF 4.A-4 ,A-4 ,ASSESSMENT REPORTS ,Prepare the assessment reports documenting the findings and recommendations from the control assessments,,5
+35,RMF 4.A-5 ,A-5 ,REMEDIATION ACTIONS,Conduct initial remediation actions on the controls and reassess remediated controls,,5
+36,RMF 4.A-6 ,A-6 ,PLAN OF ACTION AND MILESTONES ,Prepare the plan of action and milestones based on the findings and recommendations of the assessment reports.,,5
+37,RMF 5.R-1 ,R-1 ,AUTHORIZATION PACKAGE ,Assemble the authorization package and submit the package to the authorizing official for an authorization decision.,,6
+38,RMF 5.R-2 ,R-2 ,RISK ANALYSIS AND DETERMINATION ,Analyze and determine the risk from the operation or use of the system or the provision of common controls.,,6
+39,RMF 5.R-3,R-3,RISK RESPONSE,Identify and implement a preferred course of action in response to the risk determined.,,6
+40,RMF 5.R-4 ,R-4 ,AUTHORIZATION DECISION,Determine if the risk from the operation or use of the information system or the provision or use of common controls is acceptable.,,6
+41,RMF 5.R-5 ,R-5 ,AUTHORIZATION REPORTING,Report the authorization decision and any deficiencies in controls that represent significant security or privacy risk.,,6
+42,RMF 6.M-1,M-1,SYSTEM AND ENVIRONMENT CHANGES,Monitor the information system and its environment of operation for changes that impact the security and privacy posture of the system.,,7
+43,RMF 6.M-2 ,M-2 ,ONGOING ASSESSMENTS,Assess the controls implemented within and inherited by the system in accordance with the continuous monitoring strategy.,,7
+44,RMF 6.M-3 ,M-3 ,ONGOING RISK RESPONSE,"Respond to risk based on the results of ongoing monitoring activities, risk assessments, and outstanding items in plans of action and milestones.",,7
+45,RMF 6.M-4 ,M-4 ,AUTHORIZATION PACKAGE UPDATES,"Update plans, assessment reports, and plans of action and milestones based on the results of the continuous monitoring process",,7
+46,RMF 6.M-5 ,M-5 ,SECURITY AND PRIVACY REPORTING,Report the security and privacy posture of the system to the authorizing official and other organizational officials on an ongoing basis in accordance with the organizational continuous monitoring strategy.,,7
+47,RMF 6.M-6 ,M-6 ,ONGOING AUTHORIZATION,Review the security and privacy posture of the system on an ongoing basis to determine whether the risk remains acceptable.,,7
+48,RMF 6.M-7 ,M-7 ,SYSTEM DISPOSAL,Implement a system disposal strategy and execute required actions when a system is removed from operation.,,7
