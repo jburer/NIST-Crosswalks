@@ -1,6 +1,0 @@
-﻿CSFFunctionIndex,CSFID,CSFFunctionID,CSFFunctionName,CSFFunctionDescription
-1,CSF ID,ID,IDENTIFY,"Develop an organizational understanding to manage cybersecurity risk to systems, people, assets, data, and capabilities."
-2,CSF DE,DE,DETECT,Develop and implement appropriate activities to identify the occurrence of a cybersecurity event.
-3,CSF PR,PR,PROTECT,Develop and implement appropriate safeguards to ensure delivery of critical services.
-4,CSF RC,RC,RECOVER,Develop and implement appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity incident.
-5,CSF RS,RS,RESPOND,Develop and implement appropriate activities to take action regarding a detected cybersecurity incident.
