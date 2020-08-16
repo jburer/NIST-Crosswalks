@@ -8,16 +8,10 @@ The single NIST-Crosswalk.db in the Crosswalks folder is stand alone and contain
 The original data (in CSV format) for each is located in the corresponding folder.  In addition the SQL DDL is included in the Crosswalks folder, which includes various views. 
 
 
-## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) to Risk Management Framework (RMF) Crosswalk
+## Security and Privacy Controls SP 800-53 (Rev. 4)
 
-![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53-RMF.gif)
-
-
-## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) Crosswalk
-
-![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53.gif)
+![SP 800-53 Data Model](/images/NIST-SP800-53.gif)
 
 
-## Cybersecurity Framework Core (CSF) to Risk Management Framework (RMF) Crosswalk
 
-![CSF to SP 800-53 Data Model](/images/NIST-CSF-RMF.gif)
+
