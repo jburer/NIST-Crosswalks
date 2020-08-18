@@ -1,0 +1,6 @@
+﻿PFFunctionIndex,PFID,PFFunctionName,PFFunctionID,PFFunctionDescription,NISTPublicationIndex
+1,ID-P,IDENTIFY,ID-P,Develop the organizational understanding to manage privacy risk for individuals arising from data processing.,3
+2,GV-P,GOVERN,GV-P,Develop and implement the organizational governance structure to enable an ongoing understanding of the organization’s risk management priorities that are informed by privacy risk.,3
+3,CT-P,CONTROL,CT-P,Develop and implement appropriate activities to enable organizations or individuals to manage data with sufficient granularity to manage privacy risks.,3
+4,CM-P,COMMUNICATE,CM-P,Develop and implement appropriate activities to enable organizations and individuals to have a reliable understanding and engage in a dialogue about how data are processed and associated privacy risks.,3
+5,PR-P,PROTECT,PR-P,Develop and implement appropriate data processing safeguards.,3
