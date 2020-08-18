@@ -133,3 +133,4 @@ dmypy.json
 *.bak
 .vscode
 *.code-workspace
+*.xlsx
