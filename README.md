@@ -3,7 +3,7 @@
 Several of the NIST risk, security and privacy publications lend themselves *- pretty well -* to a relational data model.
 So, to have more flexibility than the PDFs and xlsx NIST puts out, I laid them out *- with some interpretation, mind you -* and imported them.
 
-The single NIST-Crosswalk.db is stand alone SQLite DB and contains everything.  
+The single NIST-Crosswalk.db is a stand alone SQLite DB and contains everything.  
 
 The SQL DDL and the original data, located in the corresponding folders, is included.  The SQL also has the various views.
 
