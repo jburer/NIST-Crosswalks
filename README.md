@@ -5,7 +5,7 @@ So, to have more flexibility than the PDFs and xlsx NIST puts out, I laid them o
 
 The single NIST-Crosswalk.db is stand alone SQLite DB and contains everything.  
 
-The SQL DDL and the original data (in CSV format, located in the corresponding folders) is included, which also includes various views.
+The SQL DDL and the original data, located in the corresponding folders, is included.  The SQL also has the various views.
 
 
 ## Cybersecurity Framework (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) to Risk Management Framework (RMF) to Privacy Framework (PF) Crosswalk
