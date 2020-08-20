@@ -10,32 +10,32 @@ The original data (in CSV format) for each is located in the corresponding folde
 
 ## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) to Risk Management Framework (RMF) Crosswalk
 
-![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53-RMF.gif)
+![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53-RMF.gif | width=300)
 
 
 ## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) Crosswalk
 
-![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53.gif)
+![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53.gif | width=300)
 
 
 ## Cybersecurity Framework Core (CSF) to Risk Management Framework (RMF) Crosswalk
 
-![CSF to SP 800-53 Data Model](/images/NIST-CSF-RMF.gif)
+![CSF to SP 800-53 Data Model](/images/NIST-CSF-RMF.gif | width=300)
 
 
 ## Cybersecurity Framework Core (CSF)
 
-![CSF Data Model](/images/NIST-CSF.gif)
+![CSF Data Model](/images/NIST-CSF.gif | width=100)
 
 
 ## Security and Privacy Controls SP 800-53 (Rev. 4)
 
-![SP 800-53 Data Model](/images/NIST-SP800-53.gif)
+![SP 800-53 Data Model](/images/NIST-SP800-53.gif | width=100)
 
 
 ## Risk Management Framework (RMF)
 
-![SP 800-53 Data Model](/images/NIST-RMF.gif)
+![SP 800-53 Data Model](/images/NIST-RMF.gif | width=100)
 
 
 
