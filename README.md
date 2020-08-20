@@ -8,27 +8,28 @@ The single NIST-Crosswalk.db is stand alone and contains everything.  In additio
 The original data (in CSV format) for each is located in the corresponding folders inside the data folder.   
 
 
-## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) to Risk Management Framework (RMF) to Privacy Framework (PF) Crosswalk
+## Cybersecurity Framework (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) to Risk Management Framework (RMF) to Privacy Framework (PF) Crosswalk
 
 ![CSF to SP 800-53 to RMF to PF Data Model](./images/NIST-CSF-SP800-53-RMF-PF.gif)
+<img src="./images/NIST-CSF-SP800-53-RMF-PF.gif" alt="CSF to SP 800-53 to RMF to PF Data Model" width="300">
 
 
-## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) to Risk Management Framework (RMF) Crosswalk
+## Cybersecurity Framework (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) to Risk Management Framework (RMF) Crosswalk
 
 ![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53-RMF.gif | width=300)
 
 
-## Cybersecurity Framework Core (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) Crosswalk
+## Cybersecurity Framework (CSF) to Security and Privacy Controls (SP 800-53 Rev. 4) Crosswalk
 
 ![CSF to SP 800-53 Data Model](/images/NIST-CSF-SP800-53.gif | width=300)
 
 
-## Cybersecurity Framework Core (CSF) to Risk Management Framework (RMF) Crosswalk
+## Cybersecurity Framework (CSF) to Risk Management Framework (RMF) Crosswalk
 
 ![CSF to SP 800-53 Data Model](/images/NIST-CSF-RMF.gif | width=300)
 
 
-## Cybersecurity Framework Core (CSF)
+## Cybersecurity Framework (CSF)
 
 ![CSF Data Model](/images/NIST-CSF.gif | width=100)
 
