@@ -133,4 +133,4 @@ dmypy.json
 *.bak
 .vscode
 *.code-workspace
-
+Update.sql
