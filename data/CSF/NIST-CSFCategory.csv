@@ -1,0 +1,24 @@
+﻿CSFCategoryIndex,CSFID,CSFCategoryName,CSFCategoryID,CSFCategoryDescription,CSFFunctionIndex
+1,ID.AM,Asset Management,AM,"The data, personnel, devices, systems, and facilities that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization's risk strategy.",1
+2,ID.BE,Business Environment,BE,"The organization's mission, objectives, stakeholders, and activities are understood and prioritized; this information is used to inform cybersecurity roles, responsibilities, and risk management decisions.",1
+3,ID.GV,Governance,GV,"The policies, procedures, and processes to manage and monitor the organization's regulatory, legal, risk, environmental, and operational requirements are understood and inform the management of cybersecurity risk.",1
+4,ID.RA,Risk Assessment,RA,"The organization understands the cybersecurity risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals.",1
+5,ID.RM,Risk Management Strategy,RM,"The organization's priorities, constraints, risk tolerances, and assumptions are established and used to support operational risk decisions.",1
+6,ID.SC,Supply Chain Risk Management,SC,"The organization's priorities, constraints, risk tolerances, and assumptions are established and used to support risk decisions associated with managing supply chain risk. The organization has established and implemented the processes to identify, assess and manage supply chain risks.",1
+7,PR.AC,"Identity Management, Authentication and Access Control",AC,"Access to physical and logical assets and associated facilities is limited to authorized users, processes, and devices, and is managed consistent with the assessed risk of unauthorized access to authorized activities and transactions.",2
+8,PR.AT,Awareness and Training,AT,"The organization's personnel and partners are provided cybersecurity awareness education and are trained to perform their cybersecurity-related duties and responsibilities consistent with related policies, procedures, and agreements.",2
+9,PR.DS,Data Security,DS,"Information and records (data) are managed consistent with the organization's risk strategy to protect the confidentiality, integrity, and availability of information.",2
+10,PR.IP,Information Protection Processes and Procedures,IP,"Security policies (that address purpose, scope, roles, responsibilities, management commitment, and coordination among organizational entities), processes, and procedures are maintained and used to manage protection of information systems and assets.",2
+11,PR.MA,Maintenance,MA,Maintenance and repairs of industrial control and information system components are performed consistent with policies and procedures.,2
+12,PR.PT,Protective Technology,PT,"Technical security solutions are managed to ensure the security and resilience of systems and assets, consistent with related policies, procedures, and agreements.",2
+13,DE.AE,Anomalies and Events,AE,Anomalous activity is detected and the potential impact of events is understood.,3
+14,DE.CM,Security Continuous Monitoring,CM,The information system and assets are monitored to identify cybersecurity events and verify the effectiveness of protective measures.,3
+15,DE.DP,Detection Processes,DP,Detection processes and procedures are maintained and tested to ensure awareness of anomalous events.,3
+16,RS.RP,Response Planning,RP,"Response processes and procedures are executed and maintained, to ensure response to detected cybersecurity incidents.",4
+17,RS.CO,Communications,CO,Response activities are coordinated with internal and external stakeholders (e.g. external support from law enforcement agencies).,4
+18,RS.AN,Analysis,AN,Analysis is conducted to ensure effective response and support recovery activities.,4
+19,RS.MI,Mitigation,MI,"Activities are performed to prevent expansion of an event, mitigate its effects, and resolve the incident.",4
+20,RS.IM,Improvements,IM,Organizational response activities are improved by incorporating lessons learned from current and previous detection/response activities.,4
+21,RC.RP,Recovery Planning,RP,Recovery processes and procedures are executed and maintained to ensure restoration of systems or assets affected by cybersecurity incidents.,5
+22,RC.IM,Improvements,IM,Recovery planning and processes are improved by incorporating lessons learned into future activities.,5
+23,RC.CO,Communications,CO,"Restoration activities are coordinated with internal and external parties (e.g.  coordinating centers, Internet Service Providers, owners of attacking systems, victims, other CSIRTs, and vendors).",5
