@@ -1,6 +1,6 @@
 ﻿CSFFunctionIndex,CSFID,CSFFunctionName,CSFFunctionID,CSFFunctionDescription,NISTPublicationIndex
 1,ID,Identify,ID,"Develop an organizational understanding to manage cybersecurity risk to systems, people, assets, data, and capabilities.",1
-2,DE,Detect,DE,Develop and implement appropriate activities to identify the occurrence of a cybersecurity event.,1
-3,PR,Protect,PR,Develop and implement appropriate safeguards to ensure delivery of critical services.,1
+2,PR,Protect,PR,Develop and implement appropriate safeguards to ensure delivery of critical services.,1
+3,DE,Detect,DE,Develop and implement appropriate activities to identify the occurrence of a cybersecurity event.,1
 4,RC,Recover,RC,Develop and implement appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity incident.,1
 5,RS,Respond,RS,Develop and implement appropriate activities to take action regarding a detected cybersecurity incident.,1
