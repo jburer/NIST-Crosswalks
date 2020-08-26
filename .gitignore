@@ -134,6 +134,5 @@ dmypy.json
 .vscode
 *.code-workspace
 updates
-*.xlsx
 *.twb
 /gitignore
