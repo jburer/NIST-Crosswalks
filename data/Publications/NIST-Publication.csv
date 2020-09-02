@@ -1,5 +1,6 @@
-﻿NISTPublicationIndex,NISTPublicationName,NISTPublicationID
-1,Cybersecurity Framework,CSF
-2,Risk Management Framework,RMF
-3,Privacy Framework,PF
-4,Security and Privacy Controls,SP 800-53
+﻿NISTPublicationID,NISTPublicationName,NISTPublicationCommonName,NISTPublicationVersion,NISTPublicationLink
+CSF,Famework for Improving Critical Infrastructure Cybersecurity,Cybersecurity Framework,V1.1,https://www.nist.gov/cyberframework
+SP 800-37,Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy,Risk Management Framework,Rev. 2,https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final
+PF,Nist Privacy Framework: A Tool For Improving Privacy Through Enterprise Risk Management,Privacy Framework,V1.0,https://www.nist.gov/privacy-framework
+SP 800-53,Security and Privacy Controls for Federal Information Systems and Organizations,Security and Privacy Controls,Rev. 4,https://csrc.nist.gov/publications/detail/sp/800-53/rev-4/final
+FIPS PUB 200,Minimum Security Requirements for Federal Information and Information Systems ,FIPS 200,,https://csrc.nist.gov/publications/detail/fips/200/final
