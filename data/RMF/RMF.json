@@ -1,0 +1,43 @@
+{
+    "Steps" : [{
+        "ID" : "",
+        "Step" : "",
+        "Purpose" : "",
+        "Publication" : {
+            "ID" : ""
+        },
+        "Task" : {
+            "ID" : "",
+            "Title" : "",
+            "Task" : "",
+            "TaskTier" : "",
+            "TaskOutcomes": [
+                "",
+                ""
+            ],
+            "TaskPotentialInputs" : [
+                "",
+                ""
+            ],
+            "TaskExpectedOutputs" : [
+                "",
+                ""
+            ],
+            "PrimaryResponsibility" : [
+                "Role" : [
+                    {
+                        "ID" :
+                    }
+                ]
+            ],
+            "SupportingRoles" : [
+
+            ],
+            "Discussion" : "",
+            "References" : [
+                "",
+                ""
+            ]
+        }
+    }]
+}
