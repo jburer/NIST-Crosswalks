@@ -1,0 +1,406 @@
+
+{
+            "Roles" : [
+                {
+                    "Role" : "AUTHORIZING OFFICIAL",
+                    "Responsibilities" : [
+                        "The authorizing official is a senior official or executive with the authority to formally assume responsibility and accountability for operating a system; providing common controls inherited by organizational systems; or using a system, service, or application from an external provider. The authorizing official is the only organizational official who can accept the security and privacy risk to organizational operations, organizational assets, and individuals.115 Authorizing officials typically have budgetary oversight for the system or are responsible for the mission and/or business operations supported by the system. Accordingly, authorizing officials are in management positions with a level of authority commensurate with understanding and accepting such security and privacy risks. Authorizing officials approve plans, memorandums of agreement or understanding, plans of action and milestones, and determine whether significant changes in the information systems or environments of operation require reauthorization.",
+                        "Authorizing officials coordinate their activities with common control providers, system owners, chief information officers, senior agency information security officers, senior agency officials for privacy, system security and privacy officers, control assessors, senior accountable officials for risk management/risk executive (function), and other interested parties during the authorization process. With the increasing complexity of the mission/business processes in an organization, partnership arrangements, and the use of shared services, it is possible that a system may"
+                    ],
+                    "Publications" : {
+                        "Publication" : "SP 800-37 Rev. 2"
+                    }
+                },
+                {
+                    "Role" : "AUTHORIZING OFFICIAL DESIGNATED REPRESENTATIVE",
+                    "Responsibilities" : [
+                        "The authorizing official designated representative is an organizational official designated by the authorizing official who is empowered to act on behalf of the authorizing official to coordinate and conduct the day-to-day activities associated with managing risk to information systems and organizations. This includes carrying out many of the activities related to the execution of the RMF. The only activity that cannot be delegated by the authorizing official to the designated representative is the authorization decision and signing of the associated authorization decision document (i.e., the acceptance of risk)."
+                    ],
+                    "Publications" : {
+                        "Publication" : "SP 800-37 Rev. 2"
+                    }
+                },
+                {
+                    "Role" : "CHIEF ACQUISITION OFFICER",
+                    "Responsibilities" : [
+                        "The chief acquisition officer is an organizational official designated by the head of an agency to advise and assist the head of agency and other agency officials to ensure that the mission of the agency is achieved through the management of the agency’s acquisition activities. The chief acquisition officer monitors the performance of acquisition activities and programs; establishes clear lines of authority, accountability, and responsibility for acquisition decision making within the agency; manages the direction and implementation of acquisition policy for the agency; and establishes policies, procedures, and practices that promote full and open competition from responsible sources to fulfill best value requirements considering the nature of the property or service procured. The Chief Acquisition Officer coordinates with mission or business owners, authorizing officials, senior accountable official for risk management, system owners, common control providers, senior agency information security officer, senior agency official for privacy, and risk executive (function) to ensure that security and privacy requirements are defined in organizational procurements and acquisitions."
+                    ],
+                    "Publications" : {
+                        "Publication" : "SP 800-37 Rev. 2"
+                    }
+                },
+                {
+                    "Role" : "CHIEF INFORMATION OFFICER",
+                    "Responsibilities" : [
+                        "The chief information officer117 is an organizational official responsible for designating a senior agency information security officer; developing and maintaining security policies, procedures, and control techniques to address security requirements; overseeing personnel with significant responsibilities for security and ensuring that the personnel are adequately trained; assisting senior organizational officials concerning their security responsibilities; and reporting to the head of the agency on the effectiveness of the organization’s security program, including progress of remedial actions. The chief information officer, with the support of the senior accountable official for risk management, the risk executive (function), and the senior agency information security officer, works closely with authorizing officials and their designated representatives to help ensure that:",
+                        "An organization-wide security program is effectively implemented resulting in adequate security for all organizational systems and environments of operation",
+                        "Security and privacy (including supply chain) risk management considerations are integrated into programming/planning/budgeting cycles, enterprise architectures, the SDLC, and acquisitions",
+                        "Organizational systems and common controls are covered by approved system security plans and possess current authorizations",
+                        "Security activities required across the organization are accomplished in an efficient, cost-effective, and timely manner",
+                        "There is centralized reporting of security activities.",
+                        "The chief information officer and authorizing officials determine the allocation of resources dedicated to the protection of systems supporting the organization’s missions and business functions based on organizational priorities. For information systems that process personally identifiable information, the chief information officer and authorizing officials coordinate any determination about the allocation of resources dedicated to the protection of those systems with the senior agency official for privacy. For selected systems, the chief information officer may be designated as an authorizing official or a co-authorizing official with other senior organizational officials. The role of chief information officer is an inherent U.S. Government function and is assigned to government personnel only."
+                    ],
+                    "Publications" : {
+                        "Publication" : "SP 800-37 Rev. 2"
+                    }
+                },
+                {
+                    "Role" : "COMMON CONTROL PROVIDER",
+                    "Responsibilities" : [
+                        "The common control provider is an individual, group, or organization that is responsible for the implementation, assessment, and monitoring of common controls (i.e., controls inherited by organizational systems).118 Common control providers also are responsible for ensuring the documentation of organization-defined common controls in security and privacy plans (or equivalent documents prescribed by the organization); ensuring that required assessments of the common controls are conducted by qualified assessors with an appropriate level of independence; documenting assessment findings in control assessment reports; and producing plans of action and milestones for controls having deficiencies. Security and privacy plans, security and privacy assessment reports, and plans of action and milestones for common controls (or summary of such information) are made available to the system owners of systems inheriting common controls after the information is reviewed and approved by the authorizing officials accountable for those common controls.",
+                        "The senior agency official for privacy is responsible for designating which privacy controls may be treated as common controls. Privacy controls that are designated as common controls are documented in the organization’s privacy program plan.119 The senior agency official for privacy has oversight responsibility for common controls in place or planned for meeting applicable privacy requirements and managing privacy risks and is responsible for assessing those controls. At the discretion of the organization, privacy controls that are designated as common controls may be assessed by an independent assessor. In all cases, however, the senior agency official for privacy retains responsibility and accountability for the organization’s privacy program, including any privacy functions performed by independent assessors. Privacy plans and privacy control assessment reports are made available to systems owners whose systems inherit privacy controls that are designated as common controls."
+                    ],
+                    "Publications" : {
+                        "Publication" : "SP 800-37 Rev. 2"
+                    }
+                },
+                {
+                    "Role" : "CONTROL ASSESSOR",
+                    "Responsibilities" : [
+                        "The control assessor is an individual, group, or organization responsible for conducting a comprehensive assessment of implemented controls and control enhancements to determine the effectiveness of the controls (i.e., the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security and privacy requirements for the system and the organization). For systems, implemented system-specific controls and system-implemented parts of hybrid controls are assessed. For common controls, implemented common controls and common control-implemented parts of hybrid controls are assessed. The system owner and common control provider rely on the security and privacy expertise and judgment of the assessor to assess the implemented controls using the assessment procedures specified in the security and privacy assessment plans. Multiple control assessors who are differentiated by their expertise in specific control requirements or technologies may be required to conduct the assessment effectively. Prior to initiating the control assessment, assessors review the security and privacy plans to facilitate development of the assessment plans. Control assessors provide an assessment of the severity of the deficiencies discovered in the system, environment of operation, and common controls and can recommend corrective actions to address the identified vulnerabilities. For system-level control assessments, control assessors do not assess inherited controls, and only assess the system-implemented portions of hybrid controls. Control assessors prepare security and privacy assessment reports containing the results and findings from the assessment.",
+                        "The required level of assessor independence is determined by the authorizing official based on laws, executive orders, directives, regulations, policies, standards, or guidelines. When a control assessment is conducted in support of an authorization decision or ongoing authorization, the authorizing official makes an explicit determination of the degree of independence required. Assessor independence is a factor in preserving an impartial and unbiased assessment process; determining the credibility of the assessment results; and ensuring that the authorizing official receives objective information to make an informed, risk-based authorization decision.",
+                        "The senior agency official for privacy is responsible for assessing privacy controls and for providing privacy information to the authorizing official. At the discretion of the organization, privacy controls may be assessed by an independent assessor. However, in all cases, the senior agency official for privacy retains responsibility and accountability for the privacy program of the organization, including any privacy functions performed by the independent assessors."
+                    ],
+                    "Publications" : {
+                        "Publication" : "SP 800-37 Rev. 2"
+                    }
+                },
+                {
+                    "Role" : "",
+                    "Responsibilities" : [
+                        ""
+                    ],
+                    "Publications" : {
+                        "Publication" : "SP 800-37 Rev. 2"
+                    }
+                }
+            ],
+            "Publications" : [
+                {
+                    "Publication" : "SP 800-18 Rev. 1",
+                    "Title" : "Guide for Developing Security Plans for Federal Information Systems",
+                    "CommonName" : "",
+                    "Topic" : "",
+                    "Series" : "SP",
+                    "Number" : "800-18",
+                    "Version" : "Rev. 1",
+                    "Release Date" : "2004-02-24",
+                    "Link" : "https://doi.org/10.6028/NIST.SP.800-18r1"
+                },
+                {
+                    "Publication" : "SP 800-30 Rev. 1",
+                    "Title" : "Guide for Conducting Risk Assessments",
+                    "CommonName" : "",
+                    "Topic" : "",
+                    "Series" : "SP",
+                    "Number" : "800-30",
+                    "Version" : "Rev. 1",
+                    "Release Date" : "2012-09-17",
+                    "Link" : "https://doi.org/10.6028/NIST.SP.800-30r1"
+                },
+                {
+                    "id" : "SP80039R2",
+                    "Publication" : "SP 800-39 Rev. 2",
+                    "Title" : "Managing Information Security Risk: Organization, Mission, and Information System View",
+                    "CommonName" : "Risk Management Framework",
+                    "Topic" : "Risk Management Framework",
+                    "Series" : "SP",
+                    "Number" : "800-39",
+                    "Version" : "Rev. 2",
+                    "Release Date" : "2018-12-20",
+                    "Link" : "https://doi.org/10.6028/NIST.SP.800-39"
+                },
+                {
+                    "Publication" : "SP 800-47",
+                    "Title" : "Security Guide for Interconnecting Information Technology Systems",
+                    "CommonName" : "",
+                    "Topic" : "",
+                    "Series" : "SP",
+                    "Number" : "800-47",
+                    "Version" : "",
+                    "Release Date" : "2002-09-01",
+                    "Link" : "https://doi.org/10.6028/NIST.SP.800-47"
+                },
+                {
+                    "Publication" : "NIST CSF",
+                    "Title" : "Framework for Improving Critical Infrastructure Cybersecurity",
+                    "CommonName" : "Cybersecurity Framework",
+                    "Topic" : "Cybersecurity Framework",
+                    "Series" : "White Paper",
+                    "Number" : "",
+                    "Version" : "v1.1",
+                    "Release Date" : "2018-04-16",
+                    "Link" : "https://doi.org/10.6028/NIST.CSWP.04162018"
+                },
+                {
+                    "Publication" : "",
+                    "Title" : "",
+                    "CommonName" : "",
+                    "Topic" : "",
+                    "Series" : "",
+                    "Number" : "",
+                    "Version" : "",
+                    "Release Date" : "",
+                    "Link" : ""
+                }
+            ],
+            "Steps" : [
+            {
+                "id" : 0,
+                "ID" : "P",
+                "Step" : "PREPARE",
+                "Purpose" : "The purpose of the Prepare step is to carry out essential activities at the organization, mission and business process, and information system levels of the organization to help prepare the organization to manage its security and privacy risks using the Risk Management Framework.",
+                "Publications" : {
+                    "Publication" : "SP 800-37 Rev. 2"
+                },
+                "Tasks" : [{
+                    "ID" : "P-1",
+                    "Title" : "RISK MANAGEMENT ROLES",
+                    "Task" : "Identify and assign individuals to specific roles associated with security and privacy risk management.",
+                    "Level" : {
+                        "Tiers" : {
+                            "Tier" : "ORGANIZATION"
+                        }
+                    },
+                    "Outcomes": [
+                        "Individuals are identified and assigned key roles for executing the Risk Management Framework."
+                    ],
+                    "PotentialInputs" : [
+                        "Organizational security and privacy policies and procedures",
+                        "Organizational charts"
+                    ],
+                    "ExpectedOutputs" : [
+                        "Documented Risk Management Framework role assignments."
+                    ],
+                    "PrimaryResponsibility" : {
+                        "Roles" : {
+                            "Role" : [
+                                "Head of Agency", 
+                                "Chief Information Officer" , 
+                                "Senior Agency Official for Privacy"
+                            ] 
+                        }
+                    },
+                    "SupportingRoles" : {
+                        "Roles" : {
+                            "Role" : [
+                                "Authorizing Official", 
+                                "Authorizing Official Designated Representative", 
+                                "Senior Accountable Official for Risk Management",
+                                "Risk Executive (Function)",
+                                "Senior Agency Information Security Officer"
+                            ]
+                        }
+                    },
+                    "Discussion" : [
+                        "The roles and responsibilities of key participants in risk management processes are described in Appendix D. The roles and responsibilities may include personnel that are internal or external to the organization, as appropriate. Since organizations have different missions, functions, and organizational structures, there may be differences in naming conventions for risk management roles and how specific responsibilities are allocated among organizational personnel (e.g., multiple individuals filling a single role or one individual filling multiple roles). In either situation, the basic risk management functions remain the same. Organizations ensure that there are no conflicts of interest when assigning the same individual to multiple risk management roles. For example, authorizing officials cannot occupy the role of system owner or common control provider for systems or common controls they are authorizing. In addition, combining multiple roles for security and privacy requires care because the two disciplines may require different expertise, and in some circumstances, the priorities may be competing. Some roles may be allocated to a group or an office rather than to an individual, for example, control assessor, risk executive (function), or system administrator."
+                    ],
+                    "References" : {
+                        "Publications" : {
+                            "Publication" : ["SP 800-160 v1", "SP 800-181", "NIST CSF"]
+                        }
+                    }
+                },
+                {
+                    "ID" : "P-2",
+                    "Title" : "RISK MANAGEMENT STRATEGY",
+                    "Task" : "Establish a risk management strategy for the organization that includes a determination of risk tolerance.",
+                    "Level" : {
+                        "Tiers" : {
+                            "Tier" : "ORGANIZATION"
+                        }
+                    },
+                    "Outcomes": [
+                        "A risk management strategy for the organization that includes a determination and expression of organizational risk tolerance is established."
+                    ],
+                    "PotentialInputs" : [
+                        "Organizational mission statement",
+                        "Organizational policies",
+                        "Organizational risk assumptions, constraints, priorities and trade-offs"
+                    ],
+                    "ExpectedOutputs" : [
+                        "Risk management strategy and statement of risk tolerance inclusive of information security and privacy risk."
+                    ],
+                    "PrimaryResponsibility" : {
+                        "Roles" : {
+                            "Role" : [
+                                "Head of Agency"
+                            ] 
+                        }
+                    },
+                    "SupportingRoles" : {
+                        "Roles" : {
+                            "Role" : [
+                                "Chief Information Officer", 
+                                "Senior Accountable Official for Risk Management",
+                                "Risk Executive (Function)",
+                                "Senior Agency Information Security Officer",
+                                "Senior Agency Official for Privacy"
+                            ]
+                        }
+                    },
+                    "Discussion" : [
+                        "Risk tolerance is the degree of risk or uncertainty that is acceptable to an organization. Risk tolerance affects all parts of the organization’s risk management process, having a direct impact on the risk management decisions made by senior leaders or executives throughout the organization and providing important constraints on those decisions. The risk management strategy guides and informs risk-based decisions including how security and privacy risk is framed, assessed, responded to, and monitored. The risk management strategy may be composed of a single document, or separate security and privacy risk management documents.54 The risk management strategy makes explicit the threats, assumptions, constraints, priorities, trade-offs, and risk tolerance used for making investment and operational decisions. This strategy includes the strategic-level decisions and considerations for how senior leaders and executives are to manage security and privacy risks (including supply chain risks) to organizational operations, organizational assets, individuals, other organizations, and the Nation. The risk management strategy includes an expression of organizational risk tolerance; acceptable risk assessment methodologies and risk response strategies; a process for consistently evaluating security and privacy risks organization-wide; and approaches for monitoring risk over time. As organizations define and implement the risk management strategies, policies, procedures, and processes, it is important that they include SCRM considerations. The risk management strategy for security and privacy connects security and privacy programs with the management control systems established in the organization’s Enterprise Risk Management strategy."
+                    ],
+                    "References" : {
+                        "Publications" : {
+                            "Publication" : [
+                                "SP 800-30",
+                                "SP 800-39",
+                                "SP 800-160 v1",
+                                "SP 800-161",
+                                "IR 8062",
+                                "IR 8179",
+                                "NIST CSF"
+                                ]
+                        }
+                    }
+                }]
+            },
+            {
+                "id" : 1, 
+                "ID" : "C",
+                "Step" : "CATEGORIZE",
+                "Purpose" : "The purpose of the Categorize step is to inform organizational risk management processes and tasks by determining the adverse impact to organizational operations and assets, individuals, other organizations, and the Nation with respect to the loss of confidentiality, integrity, and availability of organizational systems and the information processed, stored, and transmitted by those systems.",
+                "Publications" : {
+                    "Publication" : "SP 800-37 Rev. 2"
+                },
+                "Tasks" : [{
+                    "ID" : "C-1",
+                    "Title" : "SYSTEM DESCRIPTION",
+                    "Task" : "Document the characteristics of the system.",
+                    "Level" : {
+                        "Tiers" : {
+                            "Tier" : "SYSTEM"
+                        }
+                    },
+                    "Outcomes": [
+                        "The characteristics of the system are described and documented."
+                    ],
+                    "PotentialInputs" : [
+                        "System design and requirements documentation",
+                        "Authorization boundary information",
+                        "List of security and privacy requirements allocated to the system, system elements, and the environment of operation",
+                        "Physical or other processes controlled by system elements",
+                        "System element information",
+                        "System component inventory",
+                        "System element supply chain information, including inventory and supplier information",
+                        "Security categorization",
+                        "Data map of the information life cycle for information types processed, stored, and transmitted by the system",
+                        "Information on system use, users, and roles"
+                    ],
+                    "ExpectedOutputs" : [
+                        "Documented system description"
+                    ],
+                    "PrimaryResponsibility" : {
+                        "Roles" : {
+                            "ID" : [
+                                "System Owner"
+                            ] 
+                        }
+                    },
+                    "SupportingRoles" : {
+                        "Roles" : {
+                            "Role" : [
+                                "Authorizing Official",
+                                "Authorizing Official Designated Representative",
+                                "Information Owner or Steward",
+                                "System Security Officer",
+                                "System Privacy Officer"
+                            ]
+                        }
+                    },
+                    "SDLC" : {
+                        "Phase" : {
+                            "ID" : ["Initiation", "Operations/Maintenance"]
+                        }
+                    },
+                    "Discussion" : [
+                        "A description of the system characteristics is documented in the security and privacy plans, included in attachments to the plans, or referenced in other standard sources for the information generated as part of the SDLC. Duplication of information is avoided, whenever possible. The level of detail in the security and privacy plans is determined by the organization and is commensurate with the security categorization and the security and privacy risk assessments of the system. Information may be added to or updated in the system description as it becomes available during the system life cycle, during the execution of the RMF steps, and as any system characteristics change.",
+                        "Examples of different types of descriptive information that organizations can include in security and privacy plans include: descriptive name of the system and system identifier; system version or release number; manufacturer and supplier information; individual responsible for the system; system contact information; organization that manages, owns, or controls the system; system location; purpose of the system and missions/business processes supported; how the system is integrated into the enterprise architecture; SDLC phase; results of the categorization process and privacy risk assessment; authorization boundary; laws, directives, policies, regulations, or standards affecting individuals’ privacy and the security of the system; architectural description of the system including network topology; information types; hardware, firmware, and software components that are part of the system; hardware, software, and system interfaces (internal and external); information flows within the system; network connection rules for communicating with external systems; interconnected systems and identifiers for those systems; physical or other processes, components and equipment controlled by system elements; system users (including affiliations, access rights, privileges, citizenship); system provenance in the supply chain; maintenance or other relevant agreements; potential suppliers for replacement components for the system; alternative compatible system components; number and location in inventory of replacement system components; ownership or operation of the system (government-owned, government-operated; government-owned, contractor-operated; contractor-owned, contractor-operated; nonfederal [state and local governments, grantees]); incident response points of contact; authorization date and authorization termination date; and ongoing authorization status. System registration information is updated with the system characterization information (see Task P-18)."
+                    ],
+                    "References" : {
+                        "Publications" : {
+                            "Publication" : ["SP 800-18", "NIST CSF"]
+                        }
+                    }
+                },
+                {
+                    "ID" : "C-2",
+                    "Title" : "SECURITY CATEGORIZATION",
+                    "Task" : "Categorize the system and document the security categorization results.",
+                    "Level" : {
+                        "Tiers" : {
+                            "Tier" : "SYSTEM"
+                        }
+                    },
+                    "Outcomes": [
+                        "A security categorization of the system, including the information processed by the system represented by the organization-identified information types, is completed.",
+                        "Security categorization results are documented in the security, privacy, and SCRM plans.",
+                        "Security categorization results are consistent with the enterprise architecture and commitment to protecting organizational missions, business functions, and mission/business processes.",
+                        "Security categorization results reflect the organization’s risk management strategy."
+                    ],
+                    "PotentialInputs" : [
+                        "Risk management strategy",
+                        "Organizational risk tolerance",
+                        "Authorization boundary (i.e., system) information",
+                        "Organization- and system-level risk assessment results",
+                        "Information types processed, stored, or transmitted by the system",
+                        "List of security and privacy requirements allocated to the system, system elements, and environment of operation",
+                        "Organizational authority or purpose for operating the system",
+                        "Business impact analyses or criticality analyses",
+                        "Information about missions, business functions, and mission/business processes supported by the system"
+                    ],
+                    "ExpectedOutputs" : [
+                        "Impact levels determined for each information type and for each security objective (confidentiality, integrity, availability)",
+                        "Security categorization based on high-water mark of information type impact levels"
+                    ],
+                    "PrimaryResponsibility" : {
+                        "Roles" : {
+                            "Role" : [
+                                "System Owner", "Information Owner or Steward"
+                            ] 
+                        }
+                    },
+                    "SupportingRoles" : {
+                        "Roles" : {
+                            "Role" : [
+                                "Senior Accountable Official for Risk Management", "Risk Executive (Function)",
+                                "Chief Information Officer",
+                                "Senior Agency Information Security Officer",
+                                "Senior Agency Official for Privacy",
+                                "Authorizing Official",
+                                "Authorizing Official Designated Representative",
+                                "System Security Officer",
+                                "System Privacy Officer"
+                            ]
+                        }
+                    },
+                    "SDLC" : {
+                        "Phase" : {
+                            "ID" : ["Initiation", "Operations/Maintenance"]
+                        }
+                    },
+                    "Discussion" : [
+                        "Security categorization determinations consider potential adverse impacts to organizational operations, organizational assets, individuals, other organizations, and the Nation resulting from the loss of confidentiality, integrity, or availability of information. Organizations have flexibility in conducting a security categorization using either [FIPS 200] to establish a single impact level for a system based on the high-water mark concept (for other than national security systems), or [CNSSI 1253] to establish three impact values that may vary for each of the security objectives of confidentiality, integrity, and availability (for national security systems). The security categorization process is carried out by the system owner and the information owner or steward in cooperation and collaboration with senior leaders and executives with mission, business function, or risk management responsibilities. Cooperation and collaboration helps to ensure that individual systems are categorized based on the mission and business objectives of the organization. The system owner and information owner or steward consider the results from the security risk assessment (and the privacy risk assessment when the system processes PII) as a part of the security categorization decision. The decision is consistent with the risk management strategy. The results of the categorization process influence the selection of security controls for the system. Security categorization information is documented in the system security plan or included as an attachment to the plan and can be cross-referenced in a privacy plan when the system processes PII.",
+                        "The security categorization results for the system can be further refined by the organization to facilitate an impact-level prioritization of systems with the same impact level (see Task P-6). Results from the impact-level prioritization conducted by the organization can be used to help system owners in control selection and tailoring decisions."
+                    ],
+                    "References" : {
+                        "Publications" : {
+                            "Publication" : ["FIPS 199",
+                                "[FIPS 200",
+                                "SP 800-30",
+                                "SP 800-39",
+                                "SP 800-59",
+                                "SP 800-60 v1",
+                                "SP 800-60 v2",
+                                "SP 800-160 v1",
+                                "IR 8179",
+                                "CNSSI 1253",
+                                "NIST CSF"]
+                        }
+                    }
+                }]
+            }
+            ]
+}

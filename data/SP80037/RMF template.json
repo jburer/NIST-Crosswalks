@@ -1,0 +1,53 @@
+{
+    "Steps" : [
+    {
+        "ID" : "",
+        "Step" : "",
+        "Purpose" : "",
+        "Publications" : {
+            "ID" : ""
+        },
+        "Tasks" : [{
+            "ID" : "",
+            "Title" : "",
+            "Task" : "",
+            "Level" : {
+                "Tier" : {
+                    "ID" : "SYSTEM"
+                }
+            },
+            "Outcomes": [
+                ""
+            ],
+            "PotentialInputs" : [
+                ""
+            ],
+            "ExpectedOutputs" : [
+                ""
+            ],
+            "PrimaryResponsibility" : {
+                "Role" : {
+                    "ID" : [
+                        ""
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Role" : {
+                    "ID" : [
+                        ""
+                    ]
+                }
+            },
+            "Discussion" : [
+                ""
+            ],
+            "References" : {
+                "Publications" : {
+                    "ID" : [""]
+                }
+            }
+        }]
+    }
+]
+}

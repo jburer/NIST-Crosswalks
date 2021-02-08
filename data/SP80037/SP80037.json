@@ -1,0 +1,265 @@
+{
+    "Steps" : [
+    {
+        "id" : 0,
+        "ID" : "P",
+        "Step" : "PREPARE",
+        "Purpose" : "The purpose of the Prepare step is to carry out essential activities at the organization, mission and business process, and information system levels of the organization to help prepare the organization to manage its security and privacy risks using the Risk Management Framework.",
+        "Publications" : {
+            "Publication" : "SP 800-37 Rev. 2"
+        },
+        "Tasks" : [{
+            "id": 1,
+            "ID" : "P-1",
+            "Title" : "RISK MANAGEMENT ROLES",
+            "Task" : "Identify and assign individuals to specific roles associated with security and privacy risk management.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "ORGANIZATION"
+                }
+            },
+            "Outcomes": [
+                "Individuals are identified and assigned key roles for executing the Risk Management Framework."
+            ],
+            "PotentialInputs" : [
+                "Organizational security and privacy policies and procedures",
+                "Organizational charts"
+            ],
+            "ExpectedOutputs" : [
+                "Documented Risk Management Framework role assignments."
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        "Head of Agency", 
+                        "Chief Information Officer" , 
+                        "Senior Agency Official for Privacy"
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        "Authorizing Official", 
+                        "Authorizing Official Designated Representative", 
+                        "Senior Accountable Official for Risk Management",
+                        "Risk Executive (Function)",
+                        "Senior Agency Information Security Officer"
+                    ]
+                }
+            },
+            "Discussion" : [
+                "The roles and responsibilities of key participants in risk management processes are described in Appendix D. The roles and responsibilities may include personnel that are internal or external to the organization, as appropriate. Since organizations have different missions, functions, and organizational structures, there may be differences in naming conventions for risk management roles and how specific responsibilities are allocated among organizational personnel (e.g., multiple individuals filling a single role or one individual filling multiple roles). In either situation, the basic risk management functions remain the same. Organizations ensure that there are no conflicts of interest when assigning the same individual to multiple risk management roles. For example, authorizing officials cannot occupy the role of system owner or common control provider for systems or common controls they are authorizing. In addition, combining multiple roles for security and privacy requires care because the two disciplines may require different expertise, and in some circumstances, the priorities may be competing. Some roles may be allocated to a group or an office rather than to an individual, for example, control assessor, risk executive (function), or system administrator."
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : ["SP 800-160 v1", "SP 800-181", "NIST CSF"]
+                }
+            }
+        },
+        {
+            "id": 2,
+            "ID" : "P-2",
+            "Title" : "RISK MANAGEMENT STRATEGY",
+            "Task" : "Establish a risk management strategy for the organization that includes a determination of risk tolerance.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "ORGANIZATION"
+                }
+            },
+            "Outcomes": [
+                "A risk management strategy for the organization that includes a determination and expression of organizational risk tolerance is established."
+            ],
+            "PotentialInputs" : [
+                "Organizational mission statement",
+                "Organizational policies",
+                "Organizational risk assumptions, constraints, priorities and trade-offs"
+            ],
+            "ExpectedOutputs" : [
+                "Risk management strategy and statement of risk tolerance inclusive of information security and privacy risk."
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        "Head of Agency"
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        "Chief Information Officer", 
+                        "Senior Accountable Official for Risk Management",
+                        "Risk Executive (Function)",
+                        "Senior Agency Information Security Officer",
+                        "Senior Agency Official for Privacy"
+                    ]
+                }
+            },
+            "Discussion" : [
+                "Risk tolerance is the degree of risk or uncertainty that is acceptable to an organization. Risk tolerance affects all parts of the organization’s risk management process, having a direct impact on the risk management decisions made by senior leaders or executives throughout the organization and providing important constraints on those decisions. The risk management strategy guides and informs risk-based decisions including how security and privacy risk is framed, assessed, responded to, and monitored. The risk management strategy may be composed of a single document, or separate security and privacy risk management documents.54 The risk management strategy makes explicit the threats, assumptions, constraints, priorities, trade-offs, and risk tolerance used for making investment and operational decisions. This strategy includes the strategic-level decisions and considerations for how senior leaders and executives are to manage security and privacy risks (including supply chain risks) to organizational operations, organizational assets, individuals, other organizations, and the Nation. The risk management strategy includes an expression of organizational risk tolerance; acceptable risk assessment methodologies and risk response strategies; a process for consistently evaluating security and privacy risks organization-wide; and approaches for monitoring risk over time. As organizations define and implement the risk management strategies, policies, procedures, and processes, it is important that they include SCRM considerations. The risk management strategy for security and privacy connects security and privacy programs with the management control systems established in the organization’s Enterprise Risk Management strategy."
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : [
+                        "SP 800-30",
+                        "SP 800-39",
+                        "SP 800-160 v1",
+                        "SP 800-161",
+                        "IR 8062",
+                        "IR 8179",
+                        "NIST CSF"
+                        ]
+                }
+            }
+        }]
+    },
+    {
+        "id" : 1, 
+        "ID" : "C",
+        "Step" : "CATEGORIZE",
+        "Purpose" : "The purpose of the Categorize step is to inform organizational risk management processes and tasks by determining the adverse impact to organizational operations and assets, individuals, other organizations, and the Nation with respect to the loss of confidentiality, integrity, and availability of organizational systems and the information processed, stored, and transmitted by those systems.",
+        "Publications" : {
+            "Publication" : "SP 800-37 Rev. 2"
+        },
+        "Tasks" : [{
+            "id": 3,
+            "ID" : "C-1",
+            "Title" : "SYSTEM DESCRIPTION",
+            "Task" : "Document the characteristics of the system.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "SYSTEM"
+                }
+            },
+            "Outcomes": [
+                "The characteristics of the system are described and documented."
+            ],
+            "PotentialInputs" : [
+                "System design and requirements documentation",
+                "Authorization boundary information",
+                "List of security and privacy requirements allocated to the system, system elements, and the environment of operation",
+                "Physical or other processes controlled by system elements",
+                "System element information",
+                "System component inventory",
+                "System element supply chain information, including inventory and supplier information",
+                "Security categorization",
+                "Data map of the information life cycle for information types processed, stored, and transmitted by the system",
+                "Information on system use, users, and roles"
+            ],
+            "ExpectedOutputs" : [
+                "Documented system description"
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "ID" : [
+                        "System Owner"
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        "Authorizing Official",
+                        "Authorizing Official Designated Representative",
+                        "Information Owner or Steward",
+                        "System Security Officer",
+                        "System Privacy Officer"
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phase" : {
+                    "ID" : ["Initiation", "Operations/Maintenance"]
+                }
+            },
+            "Discussion" : [
+                "A description of the system characteristics is documented in the security and privacy plans, included in attachments to the plans, or referenced in other standard sources for the information generated as part of the SDLC. Duplication of information is avoided, whenever possible. The level of detail in the security and privacy plans is determined by the organization and is commensurate with the security categorization and the security and privacy risk assessments of the system. Information may be added to or updated in the system description as it becomes available during the system life cycle, during the execution of the RMF steps, and as any system characteristics change.",
+                "Examples of different types of descriptive information that organizations can include in security and privacy plans include: descriptive name of the system and system identifier; system version or release number; manufacturer and supplier information; individual responsible for the system; system contact information; organization that manages, owns, or controls the system; system location; purpose of the system and missions/business processes supported; how the system is integrated into the enterprise architecture; SDLC phase; results of the categorization process and privacy risk assessment; authorization boundary; laws, directives, policies, regulations, or standards affecting individuals’ privacy and the security of the system; architectural description of the system including network topology; information types; hardware, firmware, and software components that are part of the system; hardware, software, and system interfaces (internal and external); information flows within the system; network connection rules for communicating with external systems; interconnected systems and identifiers for those systems; physical or other processes, components and equipment controlled by system elements; system users (including affiliations, access rights, privileges, citizenship); system provenance in the supply chain; maintenance or other relevant agreements; potential suppliers for replacement components for the system; alternative compatible system components; number and location in inventory of replacement system components; ownership or operation of the system (government-owned, government-operated; government-owned, contractor-operated; contractor-owned, contractor-operated; nonfederal [state and local governments, grantees]); incident response points of contact; authorization date and authorization termination date; and ongoing authorization status. System registration information is updated with the system characterization information (see Task P-18)."
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : ["SP 800-18", "NIST CSF"]
+                }
+            }
+        },
+        {
+            "id": 4,
+            "ID" : "C-2",
+            "Title" : "SECURITY CATEGORIZATION",
+            "Task" : "Categorize the system and document the security categorization results.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "SYSTEM"
+                }
+            },
+            "Outcomes": [
+                "A security categorization of the system, including the information processed by the system represented by the organization-identified information types, is completed.",
+                "Security categorization results are documented in the security, privacy, and SCRM plans.",
+                "Security categorization results are consistent with the enterprise architecture and commitment to protecting organizational missions, business functions, and mission/business processes.",
+                "Security categorization results reflect the organization’s risk management strategy."
+            ],
+            "PotentialInputs" : [
+                "Risk management strategy",
+                "Organizational risk tolerance",
+                "Authorization boundary (i.e., system) information",
+                "Organization- and system-level risk assessment results",
+                "Information types processed, stored, or transmitted by the system",
+                "List of security and privacy requirements allocated to the system, system elements, and environment of operation",
+                "Organizational authority or purpose for operating the system",
+                "Business impact analyses or criticality analyses",
+                "Information about missions, business functions, and mission/business processes supported by the system"
+            ],
+            "ExpectedOutputs" : [
+                "Impact levels determined for each information type and for each security objective (confidentiality, integrity, availability)",
+                "Security categorization based on high-water mark of information type impact levels"
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        "System Owner", "Information Owner or Steward"
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        "Senior Accountable Official for Risk Management", "Risk Executive (Function)",
+                        "Chief Information Officer",
+                        "Senior Agency Information Security Officer",
+                        "Senior Agency Official for Privacy",
+                        "Authorizing Official",
+                        "Authorizing Official Designated Representative",
+                        "System Security Officer",
+                        "System Privacy Officer"
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phase" : {
+                    "ID" : ["Initiation", "Operations/Maintenance"]
+                }
+            },
+            "Discussion" : [
+                "Security categorization determinations consider potential adverse impacts to organizational operations, organizational assets, individuals, other organizations, and the Nation resulting from the loss of confidentiality, integrity, or availability of information. Organizations have flexibility in conducting a security categorization using either [FIPS 200] to establish a single impact level for a system based on the high-water mark concept (for other than national security systems), or [CNSSI 1253] to establish three impact values that may vary for each of the security objectives of confidentiality, integrity, and availability (for national security systems). The security categorization process is carried out by the system owner and the information owner or steward in cooperation and collaboration with senior leaders and executives with mission, business function, or risk management responsibilities. Cooperation and collaboration helps to ensure that individual systems are categorized based on the mission and business objectives of the organization. The system owner and information owner or steward consider the results from the security risk assessment (and the privacy risk assessment when the system processes PII) as a part of the security categorization decision. The decision is consistent with the risk management strategy. The results of the categorization process influence the selection of security controls for the system. Security categorization information is documented in the system security plan or included as an attachment to the plan and can be cross-referenced in a privacy plan when the system processes PII.",
+                "The security categorization results for the system can be further refined by the organization to facilitate an impact-level prioritization of systems with the same impact level (see Task P-6). Results from the impact-level prioritization conducted by the organization can be used to help system owners in control selection and tailoring decisions."
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : ["FIPS 199",
+                        "[FIPS 200",
+                        "SP 800-30",
+                        "SP 800-39",
+                        "SP 800-59",
+                        "SP 800-60 v1",
+                        "SP 800-60 v2",
+                        "SP 800-160 v1",
+                        "IR 8179",
+                        "CNSSI 1253",
+                        "NIST CSF"]
+                }
+            }
+        }]
+    }
+    ]
+}
