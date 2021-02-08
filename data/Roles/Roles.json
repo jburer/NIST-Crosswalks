@@ -36,11 +36,15 @@
             "Role" : "Chief Information Officer",
             "Responsibilities" : [
                 "The chief information officer117 is an organizational official responsible for designating a senior agency information security officer; developing and maintaining security policies, procedures, and control techniques to address security requirements; overseeing personnel with significant responsibilities for security and ensuring that the personnel are adequately trained; assisting senior organizational officials concerning their security responsibilities; and reporting to the head of the agency on the effectiveness of the organization’s security program, including progress of remedial actions. The chief information officer, with the support of the senior accountable official for risk management, the risk executive (function), and the senior agency information security officer, works closely with authorizing officials and their designated representatives to help ensure that:",
-                "An organization-wide security program is effectively implemented resulting in adequate security for all organizational systems and environments of operation",
-                "Security and privacy (including supply chain) risk management considerations are integrated into programming/planning/budgeting cycles, enterprise architectures, the SDLC, and acquisitions",
-                "Organizational systems and common controls are covered by approved system security plans and possess current authorizations",
-                "Security activities required across the organization are accomplished in an efficient, cost-effective, and timely manner",
-                "There is centralized reporting of security activities.",
+                {
+                    "List" : [
+                        "An organization-wide security program is effectively implemented resulting in adequate security for all organizational systems and environments of operation",
+                        "Security and privacy (including supply chain) risk management considerations are integrated into programming/planning/budgeting cycles, enterprise architectures, the SDLC, and acquisitions",
+                        "Organizational systems and common controls are covered by approved system security plans and possess current authorizations",
+                        "Security activities required across the organization are accomplished in an efficient, cost-effective, and timely manner",
+                        "There is centralized reporting of security activities."
+                    ]
+                },
                 "The chief information officer and authorizing officials determine the allocation of resources dedicated to the protection of systems supporting the organization’s missions and business functions based on organizational priorities. For information systems that process personally identifiable information, the chief information officer and authorizing officials coordinate any determination about the allocation of resources dedicated to the protection of those systems with the senior agency official for privacy. For selected systems, the chief information officer may be designated as an authorizing official or a co-authorizing official with other senior organizational officials. The role of chief information officer is an inherent U.S. Government function and is assigned to government personnel only."
             ],
             "Publications" : {

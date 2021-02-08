@@ -22,6 +22,17 @@
             "Link" : "https://doi.org/10.6028/NIST.SP.800-30r1"
         },
         {
+            "id": "FIPS200",
+            "Publication" : "FIPS 200",
+            "Title" : "Minimum Security Requirements for Federal Information and Information Systems",
+            "Topic" : "",
+            "Series" : "FIPS",
+            "Number" : "200",
+            "Version" : "1",
+            "ReleaseDate" : "2006-03-01",
+            "Link" : "https://doi.org/10.6028/NIST.FIPS.200"
+        },
+        {
             "id" : "SP80037R2",
             "Publication" : "SP 800-37 Rev. 2",
             "Title" : "Risk Management Framework for Information Systems and Organizations",

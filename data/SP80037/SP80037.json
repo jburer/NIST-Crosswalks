@@ -112,7 +112,245 @@
                         ]
                 }
             }
-        }]
+        },
+        {
+            "id": "3",
+            "ID" : "P-3",
+            "Title" : "RISK ASSESSMENT",
+            "Task" : "Assess organization-wide security and privacy risk and update the risk assessment results on an ongoing basis.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "ORGANIZATION"
+                }
+            },
+            "Outcomes": [
+                "An organization-wide risk assessment is completed or an existing risk assessment is updated."
+            ],
+            "PotentialInputs" : [
+                ""
+            ],
+            "ExpectedOutputs" : [
+                ""
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phases" : {
+                    "Phase" : [""]
+                }
+            },
+            "Discussion" : [
+                ""
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : [""]
+                }
+            }
+        },
+        {
+            "id": "4",
+            "ID" : "P-4",
+            "Title" : "ORGANIZATIONALLY-TAILORED CONTROL BASELINES AND CYBERSECURITY FRAMEWORK PROFILES",
+            "Optional" : true,
+            "Task" : "Establish, document, and publish organizationally-tailored control baselines and/or Cybersecurity Framework Profiles.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "ORGANIZATION"
+                }
+            },
+            "Outcomes": [
+                "Organizationally-tailored control baselines and/or Cybersecurity Framework Profiles are established and made available."
+            ],
+            "PotentialInputs" : [
+                ""
+            ],
+            "ExpectedOutputs" : [
+                ""
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phases" : {
+                    "Phase" : [""]
+                }
+            },
+            "Discussion" : [
+                ""
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : [""]
+                }
+            }
+        },
+        {
+            "id": "5",
+            "ID" : "P-5",
+            "Title" : "COMMON CONTROL IDENTIFICATION",
+            "Task" : "Identify, document, and publish organization-wide common controls that are available for inheritance by organizational systems.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "ORGANIZATION"
+                }
+            },
+            "Outcomes": [
+                "Common controls that are available for inheritance by organizational systems are identified, documented, and published."
+            ],
+            "PotentialInputs" : [
+                ""
+            ],
+            "ExpectedOutputs" : [
+                ""
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phases" : {
+                    "Phase" : [""]
+                }
+            },
+            "Discussion" : [
+                ""
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : [""]
+                }
+            }
+        },
+        {
+            "id": "6",
+            "ID" : "P-6",
+            "Title" : "IMPACT-LEVEL PRIORITIZATION",
+            "Optional" : true,
+            "Task" : "Prioritize organizational systems with the same impact level.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "ORGANIZATION"
+                }
+            },
+            "Outcomes": [
+                "A prioritization of organizational systems with the same impact level is conducted."
+            ],
+            "PotentialInputs" : [
+                ""
+            ],
+            "ExpectedOutputs" : [
+                ""
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phases" : {
+                    "Phase" : [""]
+                }
+            },
+            "Discussion" : [
+                ""
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : [""]
+                }
+            }
+        },
+        {
+            "id": "7",
+            "ID" : "P-7",
+            "Title" : "CONTINUOUS MONITORING STRATEGY",
+            "Task" : "Develop and implement an organization-wide strategy for continuously monitoring control effectiveness.",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "ORGANIZATION"
+                }
+            },
+            "Outcomes": [
+                ""
+            ],
+            "PotentialInputs" : [
+                ""
+            ],
+            "ExpectedOutputs" : [
+                ""
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phases" : {
+                    "Phase" : [""]
+                }
+            },
+            "Discussion" : [
+                ""
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : [""]
+                }
+            }
+        }
+        ]
     },
     {
         "id" : 1, 
@@ -152,7 +390,7 @@
             ],
             "PrimaryResponsibility" : {
                 "Roles" : {
-                    "ID" : [
+                    "Role" : [
                         "System Owner"
                     ] 
                 }
@@ -169,8 +407,8 @@
                 }
             },
             "SDLC" : {
-                "Phase" : {
-                    "ID" : ["Initiation", "Operations/Maintenance"]
+                "Phases" : {
+                    "Phase" : ["Initiation", "Operations/Maintenance"]
                 }
             },
             "Discussion" : [
@@ -236,8 +474,8 @@
                 }
             },
             "SDLC" : {
-                "Phase" : {
-                    "ID" : ["Initiation", "Operations/Maintenance"]
+                "Phases" : {
+                    "Phase" : ["Initiation", "Operations/Maintenance"]
                 }
             },
             "Discussion" : [
@@ -260,6 +498,99 @@
                 }
             }
         }]
+    },
+    {
+        "id" : 2, 
+        "ID" : "S",
+        "Step" : "SELECT",
+        "Purpose" : "The purpose of the Select step is to select, tailor, and document the controls necessary to protect the information system and organization commensurate with risk to organizational operations and assets, individuals, other organizations, and the Nation.",
+        "Publications" : {
+            "Publication" : "SP 800-37 Rev. 2"
+        },
+        "Tasks" : [{
+            "id": "",
+            "ID" : "",
+            "Title" : "",
+            "Task" : "",
+            "Level" : {
+                "Tiers" : {
+                    "Tier" : "SYSTEM"
+                }
+            },
+            "Outcomes": [
+                ""
+            ],
+            "PotentialInputs" : [
+                ""
+            ],
+            "ExpectedOutputs" : [
+                ""
+            ],
+            "PrimaryResponsibility" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ] 
+                }
+            },
+            "SupportingRoles" : {
+                "Roles" : {
+                    "Role" : [
+                        ""
+                    ]
+                }
+            },
+            "SDLC" : {
+                "Phases" : {
+                    "Phase" : [""]
+                }
+            },
+            "Discussion" : [
+                ""
+            ],
+            "References" : {
+                "Publications" : {
+                    "Publication" : [""]
+                }
+            }
+        }]
+    },
+    {
+        "id" : 3, 
+        "ID" : "I",
+        "Step" : "IMPLEMENT",
+        "Purpose" : "The purpose of the Implement step is to implement the controls in the security and privacy plans for the system and for the organization and to document in a baseline configuration, the specific details of the control implementation.",
+        "Publications" : {
+            "Publication" : "SP 800-37 Rev. 2"
+        }
+    },
+    {
+        "id" : 4, 
+        "ID" : "A",
+        "Step" : "ASSESS",
+        "Purpose" : "The purpose of the Assess step is to determine if the controls selected for implementation are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security and privacy requirements for the system and the organization.",
+        "Publications" : {
+            "Publication" : "SP 800-37 Rev. 2"
+        }
+    },
+    {
+        "id" : 5, 
+        "ID" : "R",
+        "Step" : "AUTHORIZE",
+        "Purpose" : "The purpose of the Authorize step is to provide organizational accountability by requiring a senior management official to determine if the security and privacy risk (including supply chain risk) to organizational operations and assets, individuals, other organizations, or the Nation based on the operation of a system or the use of common controls, is acceptable.",
+        "Publications" : {
+            "Publication" : "SP 800-37 Rev. 2"
+        }
+    },
+    {
+        "id" : 6, 
+        "ID" : "M",
+        "Step" : "MONITOR",
+        "Purpose" : "The purpose of the Monitor step is to maintain an ongoing situational awareness about the security and privacy posture of the information system and the organization in support of risk management decisions.",
+        "Publications" : {
+            "Publication" : "SP 800-37 Rev. 2"
+        }
     }
+    
     ]
 }
